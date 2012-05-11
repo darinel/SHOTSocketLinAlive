@@ -1,0 +1,10 @@
+C:\Users\darinelc\MyProjects\SolMelia\SocketAnsi\SOCKET_Sihot_LinkAlive\GMC\SocketSvc_LA_SIHOT_GMC\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\darinelc\MyProjects\SolMelia\SocketAnsi\SOCKET_Sihot_LinkAlive\GMC\SocketSvc_LA_SIHOT_GMC\obj\x86\Debug\SocketSvc_LA_SIHOT_GMC.ProjectInstaller.resources
+C:\Users\darinelc\MyProjects\SolMelia\SocketAnsi\SOCKET_Sihot_LinkAlive\GMC\SocketSvc_LA_SIHOT_GMC\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\darinelc\MyProjects\SolMelia\SocketAnsi\SOCKET_Sihot_LinkAlive\GMC\SocketSvc_LA_SIHOT_GMC\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\darinelc\MyProjects\SolMelia\SocketAnsi\SOCKET_Sihot_LinkAlive\GMC\SocketSvc_LA_SIHOT_GMC\bin\Debug\SocketSvc_LA_SIHOT_GMC.exe
+C:\Users\darinelc\MyProjects\SolMelia\SocketAnsi\SOCKET_Sihot_LinkAlive\GMC\SocketSvc_LA_SIHOT_GMC\bin\Debug\SocketSvc_LA_SIHOT_GMC.pdb
+C:\Users\darinelc\MyProjects\SolMelia\SocketAnsi\SOCKET_Sihot_LinkAlive\GMC\SocketSvc_LA_SIHOT_GMC\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\darinelc\MyProjects\SolMelia\SocketAnsi\SOCKET_Sihot_LinkAlive\GMC\SocketSvc_LA_SIHOT_GMC\obj\x86\Debug\SocketSvc_LA_SIHOT_GMC.exe
+C:\Users\darinelc\MyProjects\SolMelia\SocketAnsi\SOCKET_Sihot_LinkAlive\GMC\SocketSvc_LA_SIHOT_GMC\obj\x86\Debug\SocketSvc_LA_SIHOT_GMC.pdb
+C:\Users\darinelc\MyProjects\SolMelia\SocketAnsi\SOCKET_Sihot_LinkAlive\GMC\SocketSvc_LA_SIHOT_GMC\obj\x86\Debug\SocketSvc_LA_SIHOT_GMC.SocketSvc_LA_SIHOT_GMC.resources

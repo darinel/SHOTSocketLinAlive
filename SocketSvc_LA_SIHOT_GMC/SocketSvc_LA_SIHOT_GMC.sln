@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketSvc_LA_SIHOT_GMC", "SocketSvc_LA_SIHOT_GMC.csproj", "{8B917D6F-49F9-4EE0-B617-EB61A7798558}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "InstallerSocketSvc_LA_SIHOT_GMC", "..\Setup1\Setup1.vdproj", "{4E6CA72D-8B44-47FD-AE7D-0D2F1BF765F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B917D6F-49F9-4EE0-B617-EB61A7798558}.Debug|x86.ActiveCfg = Debug|x86
+		{8B917D6F-49F9-4EE0-B617-EB61A7798558}.Debug|x86.Build.0 = Debug|x86
+		{8B917D6F-49F9-4EE0-B617-EB61A7798558}.Release|x86.ActiveCfg = Release|x86
+		{8B917D6F-49F9-4EE0-B617-EB61A7798558}.Release|x86.Build.0 = Release|x86
+		{4E6CA72D-8B44-47FD-AE7D-0D2F1BF765F7}.Debug|x86.ActiveCfg = Debug
+		{4E6CA72D-8B44-47FD-AE7D-0D2F1BF765F7}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
